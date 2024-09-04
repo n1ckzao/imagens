@@ -2,7 +2,7 @@
 
 ## Nicolas
 
-![](/screenshot/Captura%20de%20Tela%202024-09-04%20às%2009.12.37.png)
+![](./Captura%20de%20Tela%202024-09-04%20às%2010.03.03.png)
 
 ---
 ### Sobre
